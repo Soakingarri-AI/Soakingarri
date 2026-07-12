@@ -1,2 +1,2 @@
 # Soakingarri
-AI built by Africans for Africans to solve complex problems
+A super AI tool built by Africans for Africans to solve complex problems
